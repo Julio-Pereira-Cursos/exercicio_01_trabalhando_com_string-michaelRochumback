@@ -1,10 +1,3 @@
-nome_pessoa = 'Pessoa' #String
-idade_pessoa = 10 #Int
-peso_pessoa = 78.5 #Float
-altura_pessoa = 1.69 #Float
-
-
-
 nome_pessoa1 = input("Qual o seu nome: ")
 idade_pessoa1 = input("Qual a sua idade: ")
 peso_pessoa1 = input("Qual o seu peso: ")
